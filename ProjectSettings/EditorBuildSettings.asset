@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ad798ce421eae264d8ab18bb9e7fd185
+  - enabled: 1
+    path: Assets/Scenes/Songs.unity
+    guid: c917eacbef06f6c48afbae8ea50e5ba9
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 5d8bb9f9d027f5d4fb33fbbcc7007899
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 8d5b87c0858a45640b2421039d67516d
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: e5a8bfacf887f0e4ca46049fdd29efe2
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 2944481dbbd0bcf42b214dfef15c98d8
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 7b95630b011835f48ab818158f662910
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/3aea5a42a8ad155418abe62e1b42d1b6
+    guid: 3aea5a42a8ad155418abe62e1b42d1b6
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/109d65687db476242b8b15b11be82fd6
+    guid: 109d65687db476242b8b15b11be82fd6
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/2de16c07221d2ea4f89a03ae2469edc0
+    guid: 2de16c07221d2ea4f89a03ae2469edc0
+  - enabled: 0
+    path: Assets/__DELETED_GUID_Trash/f6b710de53da10448bea8712bda8291d
+    guid: f6b710de53da10448bea8712bda8291d
+  m_configObjects: {}
